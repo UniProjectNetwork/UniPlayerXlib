@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KaX309U9W9s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slimb\\source\\repos\\UniXPlayerlib\\UniXPlayerlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slimb\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
