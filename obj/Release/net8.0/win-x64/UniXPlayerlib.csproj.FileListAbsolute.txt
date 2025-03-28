@@ -1,0 +1,11 @@
+C:\Users\slimb\source\repos\UniXPlayerlib\bin\Release\net8.0\win-x64\UniXPlayerlib.deps.json
+C:\Users\slimb\source\repos\UniXPlayerlib\bin\Release\net8.0\win-x64\UniXPlayerlib.dll
+C:\Users\slimb\source\repos\UniXPlayerlib\bin\Release\net8.0\win-x64\UniXPlayerlib.pdb
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\UniXPlayerlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\UniXPlayerlib.AssemblyInfoInputs.cache
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\UniXPlayerlib.AssemblyInfo.cs
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\UniXPlayerlib.csproj.CoreCompileInputs.cache
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\UniXPlayerlib.dll
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\refint\UniXPlayerlib.dll
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\UniXPlayerlib.pdb
+C:\Users\slimb\source\repos\UniXPlayerlib\obj\Release\net8.0\win-x64\ref\UniXPlayerlib.dll
